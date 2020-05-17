@@ -17,18 +17,14 @@
   <header>
     <!-- Logos e imagen de hidalgo -->
     <?php
+      //include ('../lib18/seph/hf/header.html');
   	 	include ('../lib20/hgo/header.html');
   	?>
-    <?php
-      //include ('../lib20/seph/hf/header.html');
-    ?>
-    <?php //include ('../lib20/hgo/header.html'); ?>
     <!-- Slider principal -->
     <?php include ('./dotk/01header/01carousel-principal/carousel.html'); ?>
   </header>
 
   <?php include ('./dotk/01header/02begajoso/menu-pegajoso.html'); ?>
-
 
   <main>
     <?php include ('./dotk/05main/contenido.html'); ?>
