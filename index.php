@@ -10,6 +10,7 @@
     include ('../lib20/core/20estilos.html');
     include ('../lib20/hgo/zoram_style_header.html');
   ?>
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 </head>
 
 <body>
